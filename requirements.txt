@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+pandas
+google-api-python-client
+openai
